@@ -1,0 +1,18 @@
+
+src/Application.cxx,138
+char line_chars[14,142
+string str;16,165
+istrstream *in 17,177
+ifstream input_file;18,197
+istrstream& parse(20,219
+void main(48,700
+
+src/General.hxx,32
+#define General_Interface12,81
+
+src/ANSILibrary.hxx,0
+
+Makefile,49
+SHELL 7,35
+dirname 22,314
+OUTPUTFLAG 134,2793
